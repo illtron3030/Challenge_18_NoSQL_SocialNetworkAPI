@@ -1,6 +1,26 @@
 {
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
   "dependencies": {
     "express": "^4.18.2",
     "mongoose": "^6.7.2"
-  }
+  },
+  "name": "challenge_18_nosql_socialnetworkapi",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/illtron3030/Challenge_18_NoSQL_SocialNetworkAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/illtron3030/Challenge_18_NoSQL_SocialNetworkAPI/issues"
+  },
+  "homepage": "https://github.com/illtron3030/Challenge_18_NoSQL_SocialNetworkAPI#readme"
 }
